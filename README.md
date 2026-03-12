@@ -1,12 +1,11 @@
-# Nova Creations BetterDiscord
+# NovaCreations BetterDiscord
 
 <div align="center">
 
-![Nova Creations Banner](assets/banner.png)
+![NovaCreations Banner](assets/banner.png)
 
 **A growing collection of premium BetterDiscord themes and plugins**
 
-[![Discord](https://img.shields.io/discord/903858601339273217?label=Discord&style=flat-square)](https://discord.gg/kestq)
 [![GitHub Stars](https://img.shields.io/github/stars/Kestq/BetterDiscord?style=flat-square)](https://github.com/Kestq/BetterDiscord/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/Kestq/BetterDiscord?style=flat-square)](https://github.com/Kestq/BetterDiscord/issues)
 
@@ -14,11 +13,11 @@
 
 ---
 
-## 🌟 About Nova Creations
+## 🌟 About NovaCreations
 
-Welcome to **Nova Creations** — an upcoming ecosystem of premium BetterDiscord addons being built with attention to detail, modern design, and performance in mind.
+Welcome to **NovaCreations** — an upcoming ecosystem of premium BetterDiscord addons being built with attention to detail, modern design, and performance in mind.
 
-This repository is where all Nova Creations BetterDiscord projects will live. Currently, development is underway on themes and plugins that will enhance your Discord experience.
+This repository is where all NovaCreations BetterDiscord projects will live. Currently, development is underway on themes and plugins that will enhance your Discord experience.
 
 > ⚠️ **Note**: This repository is in active development. Initial releases coming soon!
 
@@ -32,7 +31,7 @@ Here's what's currently being worked on:
 
 | Plugin | Description | Status |
 |--------|-------------|--------|
-| **NovaCore** | Core plugin providing shared functionality, utilities, and APIs for all future Nova Creations plugins | 🔄 In Development |
+| **NovaCore** | Core plugin providing shared functionality, utilities, and APIs for all future NovaCreations plugins | 🔄 In Development |
 
 ### Themes
 
@@ -46,7 +45,7 @@ Here's what's currently being worked on:
 
 ## 🔮 Coming Soon
 
-The Nova Creations ecosystem is just getting started. Here's what's planned:
+The NovaCreations ecosystem is just getting started. Here's what's planned:
 
 ### Future Plugins
 - **NovaProfile** — Enhanced profile customization
@@ -84,6 +83,8 @@ NovaCreations-BetterDiscord/
 ├── shared/               # Shared code and utilities
 ├── releases/             # Distribution builds
 ├── .github/              # GitHub workflows & templates
+├── CONTRIBUTING.md       # Contribution guidelines
+├── CHANGELOG.md          # Version history
 ├── LICENSE               # License information
 └── README.md            # This file
 ```
@@ -103,24 +104,24 @@ Here's the current development timeline:
 
 ## 🤝 Stay Connected
 
-- **Discord**: [Join our community](https://discord.gg/kestq)
-- **GitHub**: [Watch the repo](https://github.com/Kestq/BetterDiscord) for updates
-- **Issues**: [Request features](https://github.com/Kestq/BetterDiscord/issues) and report bugs
+- **Discord**: [Join our community](https://discord.gg/novacreations)
+- **GitHub**: [Watch the repo](https://github.com/NovaCreations/BetterDiscord) for updates
+- **Issues**: [Request features](https://github.com/NovaCreations/BetterDiscord/issues) and report bugs
 
 ---
 
 ## 📜 License
 
-This repository is licensed under the [MIT License](./LICENSE).
+This repository is licensed under the [MIT License](./LICENSE) — see the LICENSE file for details.
 
 ---
 
 ## 👤 Creator
 
-**Kestq** — Building premium BetterDiscord experiences under Nova Creations
+**NovaCreations** — Building premium BetterDiscord experiences
 
-- 🐙 GitHub: [@Kestq](https://github.com/Kestq)
-- 💬 Discord: Kestq
+- 🌐 Website: [novacreations.dev](https://novacreations.dev)
+- 🐙 GitHub: [@NovaCreations](https://github.com/NovaCreations)
 
 ---
 
