@@ -9,51 +9,35 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Added
-- Repository structure and documentation
-- Initial theme and plugin placeholders
+### In Development
+
+#### Plugins
+- **NovaCore** — Core plugin with shared functionality and APIs
+
+#### Themes
+- **Eclipse** — Dark theme with deep blacks
+- **Orion** — Modern theme with vibrant accents
+- **Horizon** — Light theme with sunrise aesthetics
+
+#### Systems
+- Repository structure and documentation framework
+- GitHub workflows and issue templates
+- Development documentation
 
 ### Planned
-- NovaCore plugin enhancements
-- New theme releases (Nebula, Aurora)
-- NovaDesignSystem public release
 
----
-
-## [1.0.0] - 2026-03-12
-
-### Added
-- **NovaCore Plugin** - Core plugin providing shared functionality for all NovaCreations plugins
-- **Eclipse Theme** - A dark, sophisticated theme with deep blacks and accent highlights
-- **Orion Theme** - A sleek, modern theme featuring clean lines and vibrant color pops
-- **Horizon Theme** - A light, airy theme inspired by sunrise aesthetics
-- Repository documentation (README, CONTRIBUTING, LICENSE)
-- Folder structure for themes, plugins, assets, docs, guides
-
-### Repository
-- Initial release setup
-- GitHub workflows configured
-- Issue and PR templates added
-- Complete documentation framework
+- NovaCore plugin release
+- Initial theme releases (Eclipse, Orion, Horizon)
+- NovaDesignSystem
+- Additional plugins (NovaProfile, NovaChat, NovaNotifications, NovaUtilities)
+- Additional themes (Nebula, Aurora)
 
 ---
 
 ## Future Releases
 
-See our [Planned Addons](./README.md#-planned-addons) section in README for upcoming features.
+See our [Coming Soon](./README.md#-coming-soon) section in README for full list of planned addons.
 
 ---
 
-## Version History
-
-- [1.0.0](./releases/v1.0.0/) - Initial release
-
----
-
-*This changelog follows the Keep a Changelog format. For each release, include:*
-- *Added for new features*
-- *Changed for changes in existing functionality*
-- *Deprecated for soon-to-be removed features*
-- *Removed for now removed features*
-- *Fixed for any bug fixes*
-- *Security for security-related changes*
+*This changelog follows the Keep a Changelog format.*
