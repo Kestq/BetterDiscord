@@ -6,9 +6,8 @@
 
 **A growing collection of premium BetterDiscord themes and plugins**
 
-[![Discord](https://img.shields.io/discord/123456789?label=Discord&style=flat-square)](https://discord.gg/novacreations)
-[![GitHub Stars](https://img.shields.io/github/stars/NovaCreations/BetterDiscord?style=flat-square)](https://github.com/NovaCreations/BetterDiscord/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/NovaCreations/BetterDiscord?style=flat-square)](https://github.com/NovaCreations/BetterDiscord/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/Kestq/BetterDiscord?style=flat-square)](https://github.com/Kestq/BetterDiscord/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/Kestq/BetterDiscord?style=flat-square)](https://github.com/Kestq/BetterDiscord/issues)
 
 </div>
 
