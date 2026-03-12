@@ -28,7 +28,7 @@ assignees: ''
 ## Environment
 - OS: 
 - BetterDiscord version: 
-- NovaCreations addon version: 
+- Nova Creations addon version: 
 
 ## Additional Context
 <!-- Any other context about the problem -->
